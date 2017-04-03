@@ -14,5 +14,3 @@ database:
 test:
   post:
     - bundle exec rake test
-    - bundle exec pronto run -f github_status github_pr -c origin/master
-
