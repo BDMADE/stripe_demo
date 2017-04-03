@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails stripe_demo: test" uuid="74364d07-f17b-4430-a445-969d29ad0441">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:stripe_demo_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails stripe_demo: production" uuid="5c2a22eb-c150-435a-bc9a-1dc77ab03f0f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:stripe_demo_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails stripe_demo: development" uuid="7270c33d-5fe3-448a-993d-5eb5695d3e53">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:stripe_demo_development</jdbc-url>
+    </data-source>
+  </component>
+</project>

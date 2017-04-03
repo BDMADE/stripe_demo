@@ -1,0 +1,28 @@
+---
+IrresponsibleModule:
+  enabled: false
+
+FeatureEnvy:
+  enabled: false
+
+UtilityFunction:
+  enabled: false
+
+TooManyStatements:
+  enabled: true
+  exclude:
+  - initialize
+  max_statements: 15
+
+LongParameterList:
+  max_params: 5
+
+TooManyInstanceVariables:
+  max_instance_variables: 5
+EOF 
+
+# add problems.txt
+echo "promlem.txt installing .."
+cat <<EOF> problems.txt
+# All problems of following project are given below:
+

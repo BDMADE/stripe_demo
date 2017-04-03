@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails stripe_demo: test" uuid="74364d07-f17b-4430-a445-969d29ad0441">
+      <database-info product="PostgreSQL" version="9.4.11" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+    </data-source>
+    <data-source name="Rails stripe_demo: production" uuid="5c2a22eb-c150-435a-bc9a-1dc77ab03f0f">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>stripe_demo</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff9dffedff8dfe3dffadfefdff5dfeedfefdfe7dfe5dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+    <data-source name="Rails stripe_demo: development" uuid="7270c33d-5fe3-448a-993d-5eb5695d3e53">
+      <database-info product="PostgreSQL" version="9.4.11" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <resolve-scope>stripe_demo_development:public,root</resolve-scope>
+    </data-source>
+  </component>
+</project>
