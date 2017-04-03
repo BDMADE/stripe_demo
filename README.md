@@ -16,5 +16,7 @@ Database migrate : $ rake db:migrate
 
 Database seed : $ rake db:seed
 
+Make .env file in project and  fill-up all ENV credentials.
+
 Run server : $ rails server or $ rails s
 
