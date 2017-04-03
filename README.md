@@ -1,4 +1,4 @@
-# stripe_demo
+# stripe_demo ![Build Status](https://circleci.com/gh/BDMADE/stripe_demo.svg?style=shield&circle-token=:circle-token)
 
 This project is powered by Ruby on rails.
 
